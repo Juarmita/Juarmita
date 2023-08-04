@@ -35,6 +35,6 @@ const juanma = {
 
 ---
 <!--START_SECTION:waka-->
-**I'm an early 🐤** 
+**Hay un Junior por aquí!!🐤** 
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Juarmita?cardType=octocat&theme=blue-green&preferLogin=true)](https://git.io/awesome-stats-card)
