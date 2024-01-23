@@ -22,7 +22,7 @@ const juanma = {
         backEnd: {
             js: ["node", "express"]
         },
-        databases: ["mongo", "MySql"],
+        databases: ["MongoDB", "MySql"],
         learning: ["Java", "Python", "SpringBoot"]
     },
     architecture: ["Progressive web applications", "Single page applications"],
