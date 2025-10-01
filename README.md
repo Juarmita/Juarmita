@@ -1,6 +1,6 @@
 <h2>Bienvenidos!! 🎇, Soy Juan Manuel! <img src="https://media.giphy.com/media/gnLasL9HiovQI/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Técnico en NeotecFoods  <a href="https://cygnus-vending.com/">Neotecfoods</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Business Analyst and System Support L3 in Softtek  <a href="https://www.softtek.com/es/">Softtek</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: Juan Manuel](https://img.shields.io/badge/-JuanManuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-manuel-g-9889a4134)](https://www.linkedin.com/in/juan-manuel-g-9889a4134)
@@ -12,7 +12,7 @@
 ```javascript
 const juanma = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "php"],
+    code: ["Javascript", "Typescript", "php","Java"],
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         frontEnd: {
@@ -22,11 +22,11 @@ const juanma = {
         backEnd: {
             js: ["node", "express"]
         },
-        databases: ["MongoDB", "MySql"],
-        learning: ["Java", "Python", "SpringBoot"]
+        databases: ["MongoDB", "MySql", "SQL"],
+        learning: ["Python"]
     },
     architecture: ["Progressive web applications", "Single page applications"],
-    currentProject: "Creando un portfolio atractivo para empezar a trabajar en el sector",
+    currentProject: "Haciendo crecer mi Portfolio con distintas webs/aplicaciones y distintos lenguajes",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
@@ -35,6 +35,6 @@ const juanma = {
 
 ---
 <!--START_SECTION:waka-->
-**Hay un Junior por aquí!!🐤** 
+**Hay un Mid por aquí!!🐤** 
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Juarmita?cardType=octocat&theme=blue-green&preferLogin=true)](https://git.io/awesome-stats-card)
