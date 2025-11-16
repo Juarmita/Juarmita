@@ -20,7 +20,7 @@ const juanma = {
             css: ["materialize", "vuetify", "bootstrap", "tailwind"]
         },
         backEnd: {
-            js: ["java","Spring Boot","node", "express"]
+            js: ["Java","Spring Boot","node", "express"]
         },
         databases: ["MongoDB", "MySql", "SQL"],
         learning: ["Python"]
